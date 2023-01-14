@@ -47,7 +47,7 @@ const {Poster:poster, Title:title, Plot:plot, Year:year} = movie
       <h2>{title}</h2>
       <p>{plot}</p>
       <h4>{year}</h4>
-      <Link to='/' className='btn'> back to movies</Link>
+      <Link to='/' className='btn'> Back to movies</Link>
     </div>
 
   </section>
